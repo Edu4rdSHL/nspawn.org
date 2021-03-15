@@ -12,5 +12,5 @@ Please read [the FAQ](https://hub.nspawn.org/faq/#how-does-nspawnorg-work) to le
 
 All images have the login: **root/root**
 
-| **Linux Distribution** | **Version** |          **Init Command** |    **Download Link** |
--------------- | ------------ | --------------------------- | -------------------- |
+| **Linux Distribution** | **Format** | **Version** |          **Init Command** |    **Download Link** |
+-------------- | ---------- | ------------ | --------------------------- | -------------------- |
